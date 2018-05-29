@@ -1,0 +1,12 @@
+========================================================================
+                       Bochs x86 Emulator 2.3.5
+            Build from CVS snapshot, on September 16, 2007
+========================================================================
+00000000000i[     ] reading configuration from bochsrc.txt
+00000000000e[     ] user_shortcut: old-style syntax detected
+00000000000i[     ] installing x module as the Bochs GUI
+00000000000i[     ] using log file bochsout.txt
+========================================================================
+Bochs is exiting with the following message:
+Ø²“P ] Shutdown port: shutdown requested
+========================================================================

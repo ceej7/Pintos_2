@@ -1,7 +1,8 @@
 # Pintos Project2: User Programs
 Working on the parts of the system that allow running user programs
 
-## How to use demo
+## Demo: how to use
+To run user program "echo" on pintos
 ```bash
 pintos-mkdisk filesys.dsk --filesys-size=2
 pintos -f -q

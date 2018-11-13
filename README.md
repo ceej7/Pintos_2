@@ -13,7 +13,8 @@ pintos -q run 'echo x'
 ## Requirements
 - Process Termination Messages
 - Argument Passing
-- **System Calls**
+- System Calls
+### Functions
 ```C
 void halt (void)
 void exit (int status)

@@ -15,7 +15,7 @@ pintos -q run 'echo x'
 2. Argument Passing
 3. System Calls
 
-### Implements
+## Implements
 ```C
 void halt (void)
 void exit (int status)
